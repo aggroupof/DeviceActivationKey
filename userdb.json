@@ -22,5 +22,11 @@
     "key": "MANOJ",
     "expirydate": "06-08-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "9fdc16fe27cd94d3",
+    "key": "AG-F8RU-7XWO-IWNJ",
+    "expirydate": "04-09-2026",
+    "Allowoffline": false
   }
 ]
